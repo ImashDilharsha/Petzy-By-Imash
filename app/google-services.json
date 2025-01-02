@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "884925793795",
+    "project_id": "petzbyimash",
+    "storage_bucket": "petzbyimash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884925793795:android:59eb458f72a5864eb3f036",
+        "android_client_info": {
+          "package_name": "com.example.petzbyimash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGx86xS-Yt9-bpCENVyr-e06K0zqmQOj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884925793795:android:36cca813a7acacd0b3f036",
+        "android_client_info": {
+          "package_name": "com.example.petzybyimash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGx86xS-Yt9-bpCENVyr-e06K0zqmQOj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
