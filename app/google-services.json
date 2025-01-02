@@ -26,7 +26,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:884925793h795:android:36cca813a7acacd0b3f036",
+        "mobilesdk_app_id": "1:8849293h795:android:36cca813a7acacd0b3f036",
         "android_client_info": {
           "package_name": "com.example.petzybyimash"
         }
@@ -34,7 +34,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBGxf86xS-Yt9-bpCENVyr-e06K0zqmQOj0"
+          "current_key": ""
         }
       ],
       "services": {
